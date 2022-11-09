@@ -1,4 +1,5 @@
-Bu projeyi https://openjfx.io/openjfx-docs/ ve https://www.youtube.com/watch?v=9XJicRt_FaI kaynaklarına bakarak yazdım
+Bu projeyi https://openjfx.io/openjfx-docs/ ve https://www.youtube.com/watch?v=9XJicRt_FaI kaynaklarına bakarak yazdım.
+
 Bu projedeki FXML ve Controller dosyaları JavaFX dokümantasyonunda yer alan Github linklerindeki Controller ve FXML dosyalarından yazılmıştır
 
 ## Getting Started
