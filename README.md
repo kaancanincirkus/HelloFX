@@ -1,3 +1,6 @@
+Bu projeyi https://openjfx.io/openjfx-docs/ ve https://www.youtube.com/watch?v=9XJicRt_FaI kaynaklarına bakarak yazdım
+Bu projedeki FXML ve Controller dosyaları JavaFX dokümantasyonunda yer alan Github linklerindeki Controller ve FXML dosyalarından yazılmıştır
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
